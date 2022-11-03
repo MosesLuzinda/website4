@@ -1,0 +1,10 @@
+*
+    header{}
+  header nav{display:flex;justify-content:space-between;padding:0% 10%;background-color:#000;color:#fff;align-items:center;}
+  header nav .nav-logo{width:20%;}
+  header nav .nav-logo img{width:95%;cursor:pointer;}
+  header nav .navbar{width:70%;}
+  header nav .navbar ul{}
+  header nav .navbar ul li{list-style:none;display:inline-block;margin-left:4%;margin-right:3%;}
+  header nav .navbar ul li a{text-decoration:none;color:#fff;text-transform:capitalize;}
+  header nav .navbar ul li a:hover{color:#F5c33c;border-top:1px #F5c33c solid;padding-top:20px;}
